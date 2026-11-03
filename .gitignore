@@ -1,0 +1,18 @@
+# build output
+[Bb]in/
+[Oo]bj/
+release/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userprefs
+
+# debug symbols
+*.pdb
+
+# misc
+*.log
+*.nupkg
+Thumbs.db
