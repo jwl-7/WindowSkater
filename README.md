@@ -2,7 +2,7 @@
     Window Skater<br/>
 </h2>
 <div align="center">
-    <img alt="Preview" src="PLACEHOLDER" />
+    <img alt="Preview" src="https://github.com/user-attachments/assets/a16d5c68-9e8c-49a3-a4ef-6017685708a6" />
 </div>
 
 <br/>
@@ -18,7 +18,7 @@ A desktop pet that skateboards windows.
 
 ## Characters
 <div align="center">
-    <img alt="Characters" src="PLACEHOLDER" />
+    <img alt="Characters" src="https://github.com/user-attachments/assets/5c343247-815d-4bc4-9ed1-6f3fe2d9d224" />
 </div>
 
 ## Supports
