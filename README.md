@@ -2,7 +2,7 @@
     Window Skater<br/>
 </h2>
 <div align="center">
-    <img alt="Preview" src="docs/preview.gif" />
+    <img alt="Preview" src="PLACEHOLDER" />
 </div>
 
 <br/>
@@ -12,13 +12,13 @@ A desktop pet that skateboards windows.
 ## Features
 - Skates on your windows and taskbar
 - Kickflips, heelflips, tre flips, and more
-- Drag and throw him around
+- Drag and throw the pet around
 - 8 characters, each with their own board
 - Tiny 1 MB exe, no install
 
 ## Characters
 <div align="center">
-    <img alt="Characters" src="docs/roster.png" />
+    <img alt="Characters" src="PLACEHOLDER" />
 </div>
 
 ## Supports
@@ -29,5 +29,7 @@ A desktop pet that skateboards windows.
 2. `[RIGHT-CLICK]` system tray icon for options / exit
 
 ## Built With
-- `.NET 8` with `NativeAOT`
-- Raw `Win32` and `GDI+`
+- `.NET 8`
+- `NativeAOT`
+- `Win32`
+- `GDI+`
